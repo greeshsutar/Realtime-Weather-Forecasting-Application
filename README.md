@@ -57,7 +57,7 @@ Weather icon
 
 The forecast section remains hidden until valid weather data is fetched.
 
-🕘 Recently Searched Cities
+🕘 Recently Searched Cities and Global Cities
 
 Searched cities are stored using the browser's Local Storage.
 
@@ -67,9 +67,9 @@ Selecting a city from the dropdown automatically reloads the weather data.
 
 ⚠ Error Handling & Validation
 
-The application includes:
+The application includes :
 
-Validation for empty search input
+Validation for empty search input 
 
 API error handling for invalid city names
 
